@@ -1,0 +1,31 @@
+{
+  "name": "reporting-app",
+  "version": "1.0.0",
+  "description": "Data visualization and reporting desktop application built with Electron.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "visualization",
+    "javascript",
+    "desktop",
+    "analytics",
+    "reporting",
+    "pivot",
+    "table",
+    "desktop",
+    "reporting",
+    "software"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.0.0"
+  },
+  "dependencies": {
+    "flexmonster": "^2.8.13"
+  }
+}
