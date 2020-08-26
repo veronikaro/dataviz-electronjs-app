@@ -12,10 +12,10 @@ You can place your data in this folder and connect it to the pivot table and piv
 
 # How to run the project
 
-Run the following commands:
+Run the following commands from the console:
 
-_npm install_
+`npm install`
 
-_npm start_
+`npm start`
 
 Enjoy the interactive reporting tool!
