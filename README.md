@@ -19,3 +19,5 @@ Run the following commands from the console:
 `npm start`
 
 Enjoy the interactive reporting tool!
+
+![Flexmonster Pivot Table & Charts Dashboard](https://www.flexmonster.com/fm_uploads/2020/08/FMElectronJSDashboard.gif)
